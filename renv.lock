@@ -11,5 +11,17 @@
         "URL": "https://aegisrspm.akaws-r-alb.onecloudlabo.com/in-house-20251216/latest"
       }
     ]
+  },
+  "Packages": {
+    "R6": {
+      "Package": "R6",
+      "Version": "2.5.1",
+      "Source": "Repository",
+      "Repository": "RSPM",
+      "Requirements": [
+        "R"
+      ],
+      "Hash": "470851b6d5d0ac559e9d01bb352b4021"
+    }
   }
 }
